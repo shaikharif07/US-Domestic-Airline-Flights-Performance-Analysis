@@ -4,7 +4,7 @@ US Domestic Airline Flights Performance Analysis
 As a data analyst, I was tasked to monitor and report US domestic airline flights performance. The goal was to analyze the performance of the reporting airline to improve flight reliability and customer satisfaction.
 
 Data
-The data used for this analysis was obtained from the Bureau of Transportation Statistics.
+The data used for this analysis was obtained from Kagel
 
 Analysis
 The analysis involved the following key report items:
